@@ -2,7 +2,6 @@ package com.example.rvdatamodeldani;
 
 public class listdata {
     private String description;
-    private int imgId;
     public listdata(String description) {
         this.description = description;
     }
